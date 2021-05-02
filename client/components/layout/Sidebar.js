@@ -10,7 +10,7 @@ export default function Sidebar() {
         <>
             <nav className="h-screen flex flex-col w-64 bg-white-50">
                 <div className="p-4">
-                    <img src={codeid} className="h-12 w-12 items-center" />
+                    <img src={codeid} className="h-24 w-24 items-center" />
                 </div>
                 <ul className="p-2 space-y-2 flex-1 overflow-auto" >
                     <li>
